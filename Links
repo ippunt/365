@@ -1,5 +1,8 @@
+Exchange:
 https://admin.exchange.microsoft.com/#/
+Azure/ ENtra-ID/ User logins domain and such
 https://portal.azure.com/#home
+MFA turn on and such. 
 https://account.activedirectory.windowsazure.com/UserManagement/MultifactorVerification.aspx?BrandContextID=O365#
 https://www.alitajran.com/connect-to-azure-ad-powershell/
 https://www.alitajran.com/export-office-365-users-mfa-status-with-powershell/
