@@ -2,7 +2,8 @@ Exchange:
 https://admin.exchange.microsoft.com/#/
 
 Azure/ ENtra-ID/ User logins domain and such:
-https://portal.azure.com/#home
+https://portal.azure.com/#home    user logins and such. General user stuff. 
+admin.microsoft.com   Kill all user sessions. 
 
 MFA turn on and such:
 https://account.activedirectory.windowsazure.com/UserManagement/MultifactorVerification.aspx?BrandContextID=O365#
